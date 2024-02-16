@@ -15,8 +15,6 @@ public class GithubTest {
         Configuration.browserSize = "1280x720";
         Configuration.baseUrl = "https://github.com";
         Configuration.pageLoadStrategy = "eager";
-        Configuration.holdBrowserOpen = true;
-
 
     }
 
